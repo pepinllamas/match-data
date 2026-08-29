@@ -1,140 +1,138 @@
-﻿Game #,Date,Team,Opponent,H/A,Competition,GF,GA,Result,Score,Game Length,1st Half Min,2nd Half Min,Total Min,% of Game,Started?,Goals,Assists,Shots,Shots on Target,Key Passes,Passes Att.,Passes Comp.,Pass %,Tackles Won,Interceptions,Duels Won,Duels Lost,Duel %,Fouls Comm.,Fouls Drawn,Yellow,Red,Rating (1-10),Notes
-1,01/12/25,Academia CAI,CD Sociedad Pma Este,,Copa Nestle,5,0,W,5 - 0,50,21,6,27,0.54,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 
-2,01/18/25,Academia CAI,Aguilas Azules,,Copa Nestle,4,5,L,4 - 5,50,27,27,54,1.08,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 
-3,01/25/25,Academia CAI,Bagoso,,Copa 507,2,0,W,2 - 0,50,20,12,32,0.64,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11  Avila x 2
-4,01/26/25,Academia CAI,Inter F.C.,,Copa Nestle,2,1,W,2 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 
-5,01/29/25,St Marys Gators,Instituto Enrico Fermi,,Amistoso,6,1,W,6 - 1,50,15,25,40,0.8,Y,2,1,,,,,,,,,,,,,,,,,Futbol 9 
-6,02/01/25,Academia CAI,Ovalle Academy,,Copa 507,5,0,W,5 - 0,50,25,11,36,0.72,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-7,02/01/25,Academia CAI,Cyclones,,Copa Nestle,5,0,W,5 - 0,50,26,11,37,0.74,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 
-8,02/02/25,Academia CAI,Nacion F.C.,,Copa 507,1,0,W,1 - 0,50,9,26,35,0.7,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-9,02/15/25,Academia CAI,Kickers Academy,,Copa 507,2,2,D,2 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-10,02/15/25,Academia CAI,Bagoso,,Atevo Cup,1,1,D,1 - 1,50,22,21,43,0.86,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 
-11,02/15/25,Academia CAI,Depor Panama,,Copa Nestle,5,0,W,5 - 0,50,20,25,45,0.9,Y,1,0,,,,,,,,,,,,,,,,,Futbol 9 
-12,02/22/25,Academia CAI,Brisas Academy,,Copa 507,8,1,W,8 - 1,50,6,10,16,0.32,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-13,02/22/25,Academia CAI,Panama City,,Atevo Cup,1,2,L,1 - 2,50,14,25,39,0.78,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 
-14,02/08/25,St Marys Gators,Plaza Amador,,Cuadrangular,9,3,W,9 - 3,40,13,13,26,0.65,Y,0,0,,,,,,,,,,,,,,,,,Futbol 7 
-15,02/08/25,St Marys Gators,Tenerife,,Cuadrangular,5,3,W,5 - 3,40,2,20,22,0.55,Y,0,1,,,,,,,,,,,,,,,,,Futbol 7 
-16,02/08/25,St Marys Gators,Plaza Amador,,Cuadrangular,6,0,W,6 - 0,40,17,12,29,0.725,Y,1,0,,,,,,,,,,,,,,,,,Futbol 7 
-17,03/15/25,Academia CAI,Bagoso,,Copa 507,3,1,W,3 - 1,50,15,13,28,0.56,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-18,03/15/25,Academia CAI,Evolution Soccer,,Atevo Cup,3,2,W,3 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 
-19,03/15/25,Academia CAI,PREFUPI,,Boys Champions,0,0,D,0 - 0,50,16,15,31,0.62,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-20,03/16/25,Academia CAI,Sporting San Miguelito,,Liga Distritorial de Panama,4,1,W,4 - 1,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Jafeth  Avila  Yosef  Percy
-21,03/22/25,Academia CAI,Nacion F.C.,,Copa 507,3,1,W,3 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-22,03/22/25,Academia CAI,Aguilas Azules,,Atevo Cup,4,0,W,4 - 0,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Jafeth Jafeth Jafeth Percy
-23,03/23/25,Academia CAI,Kickers Academy,,Liga Distritorial de Panama,6,1,W,6 - 1,60,30,9,39,0.65,Y,0,1,,,,,,,,,,,,,,,,,Futbol 11 Yosef Koke Fabian Jota Jota Gael
-24,03/23/25,Academia CAI,Atletico de Madrid,,Boys Champions,1,1,D,1 - 1,50,18,10,28,0.56,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-25,03/29/25,Academia CAI,Academia Costa del Este,,Atevo Cup,1,0,W,1 - 0,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Jafeth
-26,03/30/25,Academia CAI,Plaza Amador B,,Liga Distritorial de Panama,4,2,W,4 - 2,60,13,30,43,0.716666667,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Yosef Yosef Jafeth Avila
-27,03/08/25,St Marys Gators,Inter F.C.,,LPP,3,2,W,3 - 2,50,25,25,50,1,Y,1,0,,,,,,,,,,,,,,,,,Futbol 11 
-28,03/23/25,St Marys Gators,Inter F.C.,,LPP,2,1,W,2 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-29,03/30/25,St Marys Gators,Juventus,,LPP,0,0,D,0 - 0,50,25,24,49,0.98,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Se perdio en penales 4 a 2
-30,04/05/25,Academia CAI,Aguilas Azules,,Atevo Cup,3,2,W,3 - 2,50,25,19,44,0.88,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Yosef Jafeth Jafeth
-31,04/06/25,Academia CAI,Plaza Amador A,,Liga Distritorial de Panama,1,4,L,1 - 4,60,12,25,37,0.616666667,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Yosef
-32,04/12/25,Academia CAI,Suarez Academy,,Boys Champions,0,0,D,0 - 0,50,0,25,25,0.5,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-33,04/13/25,Academia CAI,Panama City,,Liga Distritorial de Panama,4,0,W,4 - 0,60,25,0,25,0.416666667,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Jafeth x 4
-34,04/13/25,Academia CAI,Plaza Amador,,Atevo Cup,2,3,L,2 - 3,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Jafeth Mock
-35,04/27/25,Academia CAI,Alianza F.C.,,Liga Distritorial de Panama,5,2,W,5 - 2,60,18,0,18,0.3,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Gael Jafeth x 3 Percy
-36,04/08/25,St Marys Gators,Colegio Javier,,Amistoso,0,2,L,0 - 2,50,26,23,49,0.98,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 
-37,04/27/25,St Marys Gators,AIP,,Colegial Pro,3,2,W,3 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Alex Val Ricardo David
-38,05/03/25,Academia CAI,Inter F.C.,,Boys Champions,3,0,W,3 - 0,50,21,30,51,1.02,Y,1,0,,,,,,,,,,,,,,,,,Futbol 11 
-39,05/04/25,Academia CAI,Millenium,,Liga Distritorial de Panama,4,3,W,4 - 3,60,30,30,60,1,Y,0,1,,,,,,,,,,,,,,,,,Futbol 11 Thiago Koke Jota Fabian
-40,05/10/25,Academia CAI,C.D. Sociedad Panama Este,,Boys Champions,1,1,D,1 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Daniel Izquierdo 
-41,05/11/25,Academia CAI,Nacion F.C.,,Liga Distritorial de Panama,4,4,D,4 - 4,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Miguel Amat Miguel Amat Yosef Bittan Saldaña
-42,05/18/25,Academia CAI,UMECIT,,Liga Distritorial de Panama,6,1,W,6 - 1,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Yosef Jafeth Jafeth Avila Fabian Mock
-43,05/25/25,Academia CAI,Academia Suarez,,Boys Champions,3,0,W,3 - 0,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Amat Mock Gael
-44,05/04/25,St Marys Gators,United School of Panama,,Colegial Pro,4,0,W,4 - 0,50,0,20,20,0.4,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Tomas Tomas Pipe Cubillas
-45,05/07/25,St Marys Gators,Suarez Academy,,Amistoso,1,2,L,1 - 2,50,25,19,44,0.88,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-46,05/11/25,St Marys Gators,Nuestra Señora de la Merced,,Colegial Pro,1,3,L,1 - 3,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Fabrizio
-47,05/17/25,St Marys Gators,Preparatory School,,Colegial Pro,2,3,L,2 - 3,50,0,25,25,0.5,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Fabrizio Fabrizio
-48,05/24/25,St Marys Gators,Smart Academy,,Colegial Pro,2,1,W,2 - 1,50,13,22,35,0.7,Y,0,1,,,,,,,,,,,,,,,,,Futbol 9 Koke Ricardo
-49,05/31/25,St Marys Gators,Nuestra Señora de la Merced,,Colegial Pro,1,2,L,1 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Ricardo 
-50,06/01/25,Academia CAI,PREFUPI,,Boys Champions,2,0,W,2 - 0,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Izquierdo Mock 
-51,06/01/25,Academia CAI,PREFUPI,,Liga Distritorial de Panama,2,0,W,2 - 0,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Yosef Fabian 
-52,06/08/25,Academia CAI,Bagoso,,Liga Distritorial de Panama,0,2,L,0 - 2,60,30,4,34,0.566666667,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-53,06/15/25,Academia CAI,Brisas del Golf Arraijan,,Copa Panama Next,4,0,W,4 - 0,50,0,16,16,0.32,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Yosef Izquierdo Yeyo Josef
-54,06/15/25,Academia CAI,Alianza F.C.,,Liga Distritorial de Panama,3,2,W,3 - 2,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Padilla Jafeth Josef
-55,06/22/25,Academia CAI,Alianza F.C.,,Liga Distritorial de Panama,3,0,W,3 - 0,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Yosef Basile Gael 
-56,06/22/25,Academia CAI,Soccer 10,,Copa Panama Next,2,1,W,2 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Izquierdo Yosef
-57,06/28/25,Academia CAI,Barcelona,,Atevo Cup,3,0,W,3 - 0,50,25,18,43,0.86,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Santiago Deriel Jota
-58,06/29/25,Academia CAI,Inter F.C.,,Copa Panama Next,3,2,W,3 - 2,50,16,0,16,0.32,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Deriel Yosef Yosef
-59,06/29/25,Academia CAI,Sporting San Miguelito,,Liga Distritorial de Panama,0,3,L,0 - 3,60,25,11,36,0.6,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-60,07/05/25,Academia CAI,Atletico de Madrid,,Atevo Cup,3,0,W,3 - 0,50,23,16,39,0.78,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Jafeth Jafeth Fabián
-61,07/06/25,Academia CAI,Club Deportivo Tenerife,,Copa Panama Next,3,2,W,3 - 2,50,0,25,25,0.5,Y,1,0,,,,,,,,,,,,,,,,,Futbol 9 Santiago Yosef Yosef
-62,07/06/25,Academia CAI,PREFUPI,,Liga Distritorial de Panama,6,2,W,6 - 2,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Fabián Fabián Yosef Jota Percy Gael
-63,07/13/25,Academia CAI,Imperio F.C.,,Copa Panama Next,2,0,W,2 - 0,50,18,9,27,0.54,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Percy Fabian
-64,07/19/25,Academia CAI,JAPS,,Atevo Cup,2,3,L,2 - 3,50,9,0,9,0.18,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Jafeth Jafeth 
-65,07/27/25,Academia CAI,ARPA F.C.,,Copa Panama Next,4,1,W,4 - 1,50,25,16,16,0.32,Y,0,1,,,,,,,,,,,,,,,,,Futbol 9 Koke Izquierdo Yeyo Yeyo 
-66,07/15/25,St Marys Gators,Panamerican School,,Amistoso,1,0,W,1 - 0,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Rory
-67,07/29/25,St Marys Gators,Thomas Jefferson,,Amistoso,1,3,L,1 - 3,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Fabrizio
-68,08/02/25,Academia CAI,Bagoso,,Atevo Cup,1,2,L,1 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Ávila 
-69,08/03/25,Academia CAI,ARPA F.C.,,Copa Panama Next,6,0,W,6 - 0,50,25,19,44,0.88,Y,1,0,,,,,,,,,,,,,,,,,Fútbol 9 Josef Josef Josef Pipe Yeyo Josef
-70,08/09/25,Academia CAI,Bruneth Hay,,Atevo Cup,2,1,W,2 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Jafeth Jafeth 
-71,08/10/25,Academia CAI,Atletico de Madrid,,Copa Panama Next,1,4,L,1 - 4,50,25,9,34,0.68,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Izquierdo 
-72,08/13/25,Academia CAI,Bagoso,,Atevo Cup,1,1,D,1 - 1,50,22,0,22,0.44,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Se perdio en penales 3 a 4 Jafeth
-73,08/17/25,Academia CAI,Bagoso,,Liga Distritorial de Panama,2,3,L,2 - 3,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Jafeth Jafeth
-74,08/17/25,Academia CAI,Inter F.C.,,Atevo Cup,2,1,W,2 - 1,50,0,14,14,0.28,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Jafeth Jafeth 
-75,08/17/25,Academia CAI,Imperio F.C.,,Copa Panama Next,1,3,L,1 - 3,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Izquierdo 
-76,08/23/25,Academia CAI,Plaza Amador Azul,,Golden League,6,1,W,6 - 1,50,25,11,36,0.72,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Yeyo Yeyo Dainer Saldaña Jafeth Jafeth 
-77,08/24/25,Academia CAI,Alianza F.C.,,Liga Distritorial de Panama,3,0,W,3 - 0,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Padilla Gael Josef 
-78,08/30/25,Academia CAI,SFSS,,Golden League,6,0,W,6 - 0,50,2,10,12,0.24,Y,0,1,,,,,,,,,,,,,,,,,Fútbol 9 Jafeth Fabian Camaño Saldaña Gutmann Koke
-79,08/24/25,St Marys Gators,Smart Academy,,Liga Jr,0,1,L,0 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-80,08/31/25,St Marys Gators,Colegio Javier,,Liga Jr,2,2,D,2 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Ricardo Kalheb
-81,09/06/25,Academia CAI,Atletico de Madrid,,Golden League,1,2,L,1 - 2,50,25,24,49,0.98,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Mock 
-82,09/07/25,Academia CAI,Sporting San Miguelito,,Liga Distritorial de Panama,1,2,L,1 - 2,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Josef 
-83,09/13/25,Academia CAI,FCC,,Golden League,3,0,W,3 - 0,50,20,0,20,0.4,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Fabián Ávila Jafeth 
-84,09/20/25,Academia CAI,Academia Costa del Este,,Golden League,3,3,D,3 - 3,50,0,0,0,0,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Camaño Gael Gael 
-85,09/27/25,Academia CAI,Plaza Amador Azul,,Golden League,1,2,L,1 - 2,50,4,11,15,0.3,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Avila
-86,09/28/25,Academia CAI,Plaza Amador,,Liga Distritorial de Panama,0,2,L,0 - 2,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 
-87,09/14/25,St Marys Gators,Panamerican School,,Liga Jr,3,0,W,3 - 0,50,25,25,50,1,Y,1,0,,,,,,,,,,,,,,,,,Futbol 11 Ricardo Evans Pipe Arrocha
-88,09/21/25,St Marys Gators,El Colegio de Panama,,Liga Jr,1,1,D,1 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Ricardo
-89,09/28/25,St Marys Gators,Colegio La Salle,,Liga Jr,1,0,W,1 - 0,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Ricardo
-90,10/05/25,Academia CAI,PREFUPI,,Liga Distritorial de Panama,4,1,W,4 - 1,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 D Robles Gael (p) D Robles Gael
-91,10/11/25,Academia CAI,Atletico de Madrid,,Golden League,4,3,W,4 - 3,50,10,15,25,0.5,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9  Jafeth Jafeth Daniel R. Fabian 
-92,10/19/25,Academia CAI,Bagoso,,Liga Distritorial de Panama,2,5,L,2 - 5,60,0,30,30,0.5,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 Yeyo Jafeth 
-93,10/25/25,Academia CAI,PREFUPI,,Golden League,3,1,W,3 - 1,50,0,25,25,0.5,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9  Jafeth Avila Yeyo 
-94,10/05/25,St Marys Gators,Atenea,,Liga Jr,3,1,W,3 - 1,50,25,20,45,0.9,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 Ricardo Ricardo Ricardo
-95,10/12/25,St Marys Gators,AIP,,Liga Jr,1,4,L,1 - 4,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 Ricardo
-96,11/27/25,Academia CAI,Chorrillo,,Liga de Campeones,1,1,D,1 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 Saldaña
-97,11/29/25,Academia CAI,Nuevo Chorrillo,,Liga de Campeones,2,1,W,2 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 
-98,11/30/25,Academia CAI,San Miguelito,,Liga de Campeones,0,4,L,0 - 4,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 
-99,12/06/25,St Marys Gators,Smart Academy,,Boys Champions,3,0,W,3 - 0,50,25,25,50,1,Y,1,0,,,,,,,,,,,,,,,,,Fútbol 11 Enzo Fabricio Danesh
-100,12/07/25,St Marys Gators,OIS Coyotes,,Boys Champions,2,2,D,2 - 2,50,25,25,50,1,Y,0,1,,,,,,,,,,,,,,,,,Fútbol 11 David Koke
-101,12/11/25,St Marys Gators,Colegio Javier,,Boys Champions,0,7,L,0 - 7,50,25,10,35,0.7,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 
-102,12/12/25,St Marys Gators,Colegio E Veracruz,,Boys Champions,2,3,L,2 - 3,50,25,0,25,0.5,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 
-103,12/13/25,St Marys Gators,Colegio Javier,,Boys Champions,1,2,L,1 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 
-104,02/21/26,Academia CAI,Cyclones,Home,Kids Cup,1,0,W,1 - 0,50,19,13,32,0.64,Y,0,0,3,2,4,62,54,0.871,5,3,8,4,0.6667,2,3,1,0,8,
-105,03/01/26,Academia CAI,Academia Suarez,,Kids Cup,0,5,L,0 - 5,50,25,8,33,0.66,Y,0,0,,,,,,,,,,,,,,,,,Goleador:
-106,03/07/26,Academia CAI,Elite Rokas,,Kids Cup,3,1,W,3 - 1,50,10,3,13,0.26,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Izquierdo_Izquierdo_Joseph
-107,03/08/26,Academia CAI,Nuevo Chorrillo,,Kids Cup,1,1,D,1 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,
-108,03/15/26,Academia CAI,Bagoso Blanco Elite,,Kids Cup,0,7,L,0 - 7,50,25,20,45,0.9,Y,0,0,,,,,,,,,,,,,,,,,
-109,03/19/26,St Marys Gators,Balboa Academy,,Amistoso,1,3,L,1 - 3,60,30,30,60,1,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Mateo_Diego
-110,03/21/26,Academia CAI,Atletico de Madrid,,Golden League,0,5,L,0 - 5,50,22,5,27,0.54,Y,0,0,,,,,,,,,,,,,,,,,
-111,03/22/26,St Marys Gators,Academia Magen David,,Boys Champions,2,1,W,2 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Daniel Cardenas_Francesco
-112,03/24/26,St Marys Gators,Casco School,,Amistoso,5,4,W,5 - 4,40,25,15,40,1,Y,1,0,,,,,,,,,,,,,,,,,Goleador: Jose Francisco_Iam_Oscar_Aria_Francesco
-113,03/28/26,Academia CAI,Plaza Amador A,,Golden League,1,2,L,1 - 2,50,6,25,31,0.62,N,0,0,,,,,,,,,,,,,,,,,Goleador: Emilio
-114,03/29/26,Academia CAI,Universitario,,Kids Cup,0,1,L,0 - 1,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,
-115,03/31/26,St Marys Gators,Colegio Javier,,Amistoso,0,4,L,0 - 4,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,
-116,04/11/26,Academia CAI,FCC,,Golden League,2,0,W,2 - 0,50,17,10,27,0.54,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Ladino_Liam
-117,04/12/26,St Marys Gators,Legends AHP,,Boys Champions,2,2,D,2 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Diego_Pozone
-118,04/12/26,Academia CAI,New West,,Kids Cup,1,2,L,1 - 2,50,22,0,22,0.44,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Joseph
-119,04/18/26,Academia CAI,Plaza Amador,,Golden League,0,1,L,0 - 1,50,25,17,42,0.84,Y,0,0,,,,,,,,,,,,,,,,,
-120,04/25/26,Academia CAI,Atletico Panama Viejo,,Golden League,0,1,L,0 - 1,50,15,9,24,0.48,N,0,0,,,,,,,,,,,,,,,,,
-121,04/26/26,St Marys Gators,Instituto Bolivar,,Boys Champions,3,2,W,3 - 2,50,25,25,50,1,Y,0,1,,,,,,,,,,,,,,,,,Goleador: Pipe Arrocha_Diego_Pipe Arrocha
-122,05/02/26,Academia CAI,Suarez Academy,,Golden League,0,2,L,0 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,
-123,05/10/26,Academia CAI,Plaza Amador 2013,,Golden League,0,2,L,0 - 2,50,25,16,41,0.82,Y,0,0,,,,,,,,,,,,,,,,,
-124,05/16/26,Academia CAI,Tenerife,,Golden League,0,2,L,0 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,
-125,05/17/26,St Marys Gators,Colegio La Salle,,Boys Champions,5,0,W,5 - 0,50,25,19,44,0.88,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Diego_Evan_Nico_Cardenas_Francesco
-126,05/24/26,St Marys Gators,Academia Magen David,,Boys Champions,2,1,W,2 - 1,45,25,20,45,1,Y,1,0,,,,,,,,,,,,,,,,,Goleador: Diego_Jose Francisco
-127,06/06/26,Academia CAI,ACD Plaza 2,,Golden League,4,2,W,4 - 2,50,25,13,38,0.76,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Yeicov_Emilio_Liam_Liam
-128,06/14/26,St Marys Gators,Legends AHP,,Boys Champions,2,1,W,2 - 1,45,25,18,43,0.9556,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Pipe Arrocha_Pozone
-129,07/05/26,Academia CAI,Wolves,,Futpa,1,3,L,1 - 3,50,22,15,37,0.74,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Rolando
-130,07/11/26,Academia CAI,Academia Costa del Este,,Futpa,3,2,W,3 - 2,50,25,12,37,0.74,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Joseph_Santiago_Joseph
-131,08/02/26,Academia CAI,Juventus,,Futpa,2,0,W,2 - 0,50,15,20,35,0.7,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Micky_Rolando
-132,08/06/26,St Marys Gators,Instituto Enrico Fermi,,Amistoso,0,1,L,0 - 1,40,20,20,40,1,Y,0,0,,,,,,,,,,,,,,,,,
-133,08/08/26,Academia CAI,Academia Costa del Este,,Futpa,0,2,L,0 - 2,50,25,25,50,1,Y,0,0,,,,,,,,,,,,,,,,,
-134,08/08/26,Academia CAI,Panama City,,Futpa,0,2,L,0 - 2,50,25,16,41,0.82,Y,0,0,,,,,,,,,,,,,,,,,
-135,08/09/26,Academia CAI,CAI Vikingos,,Futpa,6,0,W,6 - 0,50,25,15,40,0.8,Y,1,2,,,,,,,,,,,,,,,,,Goleador: Micky_Joseph_Rolando_Rolando_Freddy_Jose Francisco
-136,08/15/26,Academia CAI,Wolves,,Futpa,5,1,W,5 - 1,50,25,5,30,0.6,Y,0,1,,,,,,,,,,,,,,,,,Goleador: Izquierdo_Joseph_Joseph_Joseph_Ladino
-137,08/15/26,Academia CAI,San Francisco,,Futpa,0,5,L,0 - 5,50,25,17,42,0.84,Y,0,0,,,,,,,,,,,,,,,,,
-138,08/22/26,Academia CAI,Union Atletico Oeste,Home,Futpa,2,0,W,2 - 0,50,25,23,48,0.96,Y,0,0,0,0,2,12,9,0.75,3,12,3,1,0.75,1,0,0,0,8,Salio 2 minutos para descanso.
-139,08/22/26,Academia CAI,Plaza Amador,Home,LPP,0,1,L,0 - 1,50,22,2,24,0.48,Y,0,0,0,0,0,2,2,1,1,3,1,0,1,0,0,0,0,7,
+Game #,Date,Team,Opponent,H/A,Competition,GF,GA,Result,Score,Game Length,1st Half Min,2nd Half Min,Total Min,% of Game,Started?,Goals,Assists,Shots,Shots on Target,Key Passes,Passes Att.,Passes Comp.,Pass %,Tackles Won,Interceptions,Duels Won,Duels Lost,Duel %,Fouls Comm.,Fouls Drawn,Yellow,Red,Rating (1-10),Notes
+1,2025-01-12,Academia CAI,CD Sociedad Pma Este,,Copa Nestle,5,0,W,5 - 0,50,21,6,27,0.5400,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9
+2,2025-01-18,Academia CAI,Aguilas Azules,,Copa Nestle,4,5,L,4 - 5,50,27,27,54,1.0800,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9
+3,2025-01-25,Academia CAI,Bagoso,,Copa 507,2,0,W,2 - 0,50,20,12,32,0.6400,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11  Avila x 2
+4,2025-01-26,Academia CAI,Inter F.C.,,Copa Nestle,2,1,W,2 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9
+5,2025-01-29,St Marys Gators,Instituto Enrico Fermi,,Amistoso,6,1,W,6 - 1,50,15,25,40,0.8000,Y,2,1,,,,,,,,,,,,,,,,,Futbol 9
+6,2025-02-01,Academia CAI,Ovalle Academy,,Copa 507,5,0,W,5 - 0,50,25,11,36,0.7200,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+7,2025-02-01,Academia CAI,Cyclones,,Copa Nestle,5,0,W,5 - 0,50,26,11,37,0.7400,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9
+8,2025-02-02,Academia CAI,Nacion F.C.,,Copa 507,1,0,W,1 - 0,50,9,26,35,0.7000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+9,2025-02-08,St Marys Gators,Plaza Amador,,Cuadrangular,9,3,W,9 - 3,40,13,13,26,0.6500,Y,0,0,,,,,,,,,,,,,,,,,Futbol 7
+10,2025-02-08,St Marys Gators,Tenerife,,Cuadrangular,5,3,W,5 - 3,40,2,20,22,0.5500,Y,0,1,,,,,,,,,,,,,,,,,Futbol 7
+11,2025-02-15,Academia CAI,Kickers Academy,,Copa 507,2,2,D,2 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+12,2025-02-15,Academia CAI,Bagoso,,Atevo Cup,1,1,D,1 - 1,50,22,21,43,0.8600,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9
+13,2025-02-15,Academia CAI,Depor Panama,,Copa Nestle,5,0,W,5 - 0,50,20,25,45,0.9000,Y,1,0,,,,,,,,,,,,,,,,,Futbol 9
+14,2025-02-22,Academia CAI,Brisas Academy,,Copa 507,8,1,W,8 - 1,50,6,10,16,0.3200,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+15,2025-02-22,Academia CAI,Panama City,,Atevo Cup,1,2,L,1 - 2,50,14,25,39,0.7800,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9
+16,2025-03-08,St Marys Gators,Inter F.C.,,LPP,3,2,W,3 - 2,50,25,25,50,1.0000,Y,1,0,,,,,,,,,,,,,,,,,Futbol 11
+17,2025-03-15,Academia CAI,Bagoso,,Copa 507,3,1,W,3 - 1,50,15,13,28,0.5600,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+18,2025-03-15,Academia CAI,Evolution Soccer,,Atevo Cup,3,2,W,3 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9
+19,2025-03-15,Academia CAI,PREFUPI,,Boys Champions,0,0,D,0 - 0,50,16,15,31,0.6200,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+20,2025-03-16,Academia CAI,Sporting San Miguelito,,Liga Distritorial de Panama,4,1,W,4 - 1,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Jafeth  Avila  Yosef  Percy
+21,2025-03-22,Academia CAI,Nacion F.C.,,Copa 507,3,1,W,3 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+22,2025-03-22,Academia CAI,Aguilas Azules,,Atevo Cup,4,0,W,4 - 0,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Jafeth Jafeth Jafeth Percy
+23,2025-03-23,Academia CAI,Kickers Academy,,Liga Distritorial de Panama,6,1,W,6 - 1,60,30,9,39,0.6500,Y,0,1,,,,,,,,,,,,,,,,,Futbol 11 Yosef Koke Fabian Jota Jota Gael
+24,2025-03-23,Academia CAI,Atletico de Madrid,,Boys Champions,1,1,D,1 - 1,50,18,10,28,0.5600,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+25,2025-03-23,St Marys Gators,Inter F.C.,,LPP,2,1,W,2 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+26,2025-03-29,Academia CAI,Academia Costa del Este,,Atevo Cup,1,0,W,1 - 0,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Jafeth
+27,2025-03-30,Academia CAI,Plaza Amador B,,Liga Distritorial de Panama,4,2,W,4 - 2,60,13,30,43,0.7167,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Yosef Yosef Jafeth Avila
+28,2025-03-30,St Marys Gators,Juventus,,LPP,0,0,D,0 - 0,50,25,24,49,0.9800,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Se perdio en penales 4 a 2
+29,2025-04-05,Academia CAI,Aguilas Azules,,Atevo Cup,3,2,W,3 - 2,50,25,19,44,0.8800,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Yosef Jafeth Jafeth
+30,2025-04-06,Academia CAI,Plaza Amador A,,Liga Distritorial de Panama,1,4,L,1 - 4,60,12,25,37,0.6167,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Yosef
+31,2025-04-08,St Marys Gators,Colegio Javier,,Amistoso,0,2,L,0 - 2,50,26,23,49,0.9800,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9
+32,2025-04-12,Academia CAI,Suarez Academy,,Boys Champions,0,0,D,0 - 0,50,0,25,25,0.5000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+33,2025-04-13,Academia CAI,Panama City,,Liga Distritorial de Panama,4,0,W,4 - 0,60,25,0,25,0.4167,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Jafeth x 4
+34,2025-04-13,Academia CAI,Plaza Amador,,Atevo Cup,2,3,L,2 - 3,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Jafeth Mock
+35,2025-04-27,Academia CAI,Alianza F.C.,,Liga Distritorial de Panama,5,2,W,5 - 2,60,18,0,18,0.3000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Gael Jafeth x 3 Percy
+36,2025-04-27,St Marys Gators,AIP,,Colegial Pro,3,2,W,3 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Alex Val Ricardo David
+37,2025-05-03,Academia CAI,Inter F.C.,,Boys Champions,3,0,W,3 - 0,50,21,30,51,1.0200,Y,1,0,,,,,,,,,,,,,,,,,Futbol 11
+38,2025-05-04,Academia CAI,Millenium,,Liga Distritorial de Panama,4,3,W,4 - 3,60,30,30,60,1.0000,Y,0,1,,,,,,,,,,,,,,,,,Futbol 11 Thiago Koke Jota Fabian
+39,2025-05-04,St Marys Gators,United School of Panama,,Colegial Pro,4,0,W,4 - 0,50,0,20,20,0.4000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Tomas Tomas Pipe Cubillas
+40,2025-05-07,St Marys Gators,Suarez Academy,,Amistoso,1,2,L,1 - 2,50,25,19,44,0.8800,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+41,2025-05-10,Academia CAI,C.D. Sociedad Panama Este,,Boys Champions,1,1,D,1 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Daniel Izquierdo
+42,2025-05-11,Academia CAI,Nacion F.C.,,Liga Distritorial de Panama,4,4,D,4 - 4,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Miguel Amat Miguel Amat Yosef Bittan Saldaña
+43,2025-05-11,St Marys Gators,Nuestra Señora de la Merced,,Colegial Pro,1,3,L,1 - 3,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Fabrizio
+44,2025-05-17,St Marys Gators,Preparatory School,,Colegial Pro,2,3,L,2 - 3,50,0,25,25,0.5000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Fabrizio Fabrizio
+45,2025-05-18,Academia CAI,UMECIT,,Liga Distritorial de Panama,6,1,W,6 - 1,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Yosef Jafeth Jafeth Avila Fabian Mock
+46,2025-05-24,St Marys Gators,Smart Academy,,Colegial Pro,2,1,W,2 - 1,50,13,22,35,0.7000,Y,0,1,,,,,,,,,,,,,,,,,Futbol 9 Koke Ricardo
+47,2025-05-25,Academia CAI,Academia Suarez,,Boys Champions,3,0,W,3 - 0,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Amat Mock Gael
+48,2025-05-31,St Marys Gators,Nuestra Señora de la Merced,,Colegial Pro,1,2,L,1 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Ricardo
+49,2025-06-01,Academia CAI,PREFUPI,,Boys Champions,2,0,W,2 - 0,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Izquierdo Mock
+50,2025-06-08,Academia CAI,Bagoso,,Liga Distritorial de Panama,0,2,L,0 - 2,60,30,4,34,0.5667,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+51,2025-06-15,Academia CAI,Brisas del Golf Arraijan,,Copa Panama Next,4,0,W,4 - 0,50,0,16,16,0.3200,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Yosef Izquierdo Yeyo Josef
+52,2025-06-15,Academia CAI,Alianza F.C.,,Liga Distritorial de Panama,3,2,W,3 - 2,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Padilla Jafeth Josef
+53,2025-06-22,Academia CAI,Alianza F.C.,,Liga Distritorial de Panama,3,0,W,3 - 0,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Yosef Basile Gael
+54,2025-06-22,Academia CAI,Soccer 10,,Copa Panama Next,2,1,W,2 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Izquierdo Yosef
+55,2025-06-28,Academia CAI,Barcelona,,Atevo Cup,3,0,W,3 - 0,50,25,18,43,0.8600,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Santiago Deriel Jota
+56,2025-06-29,Academia CAI,Inter F.C.,,Copa Panama Next,3,2,W,3 - 2,50,16,0,16,0.3200,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Deriel Yosef Yosef
+57,2025-06-29,Academia CAI,Sporting San Miguelito,,Liga Distritorial de Panama,0,3,L,0 - 3,60,25,11,36,0.6000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+58,2025-07-05,Academia CAI,Atletico de Madrid,,Atevo Cup,3,0,W,3 - 0,50,23,16,39,0.7800,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Jafeth Jafeth Fabián
+59,2025-07-06,Academia CAI,Club Deportivo Tenerife,,Copa Panama Next,3,2,W,3 - 2,50,0,25,25,0.5000,Y,1,0,,,,,,,,,,,,,,,,,Futbol 9 Santiago Yosef Yosef
+60,2025-07-06,Academia CAI,PREFUPI,,Liga Distritorial de Panama,6,2,W,6 - 2,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Fabián Fabián Yosef Jota Percy Gael
+61,2025-07-13,Academia CAI,Imperio F.C.,,Copa Panama Next,2,0,W,2 - 0,50,18,9,27,0.5400,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Percy Fabian
+62,2025-07-15,St Marys Gators,Panamerican School,,Amistoso,1,0,W,1 - 0,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Rory
+63,2025-07-19,Academia CAI,JAPS,,Atevo Cup,2,3,L,2 - 3,50,9,0,9,0.1800,Y,0,0,,,,,,,,,,,,,,,,,Futbol 9 Jafeth Jafeth
+64,2025-07-27,Academia CAI,ARPA F.C.,,Copa Panama Next,4,1,W,4 - 1,50,25,16,41,0.8200,Y,0,1,,,,,,,,,,,,,,,,,Futbol 9 Koke Izquierdo Yeyo Yeyo
+65,2025-07-29,St Marys Gators,Thomas Jefferson,,Amistoso,1,3,L,1 - 3,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Fabrizio
+66,2025-08-02,Academia CAI,Bagoso,,Atevo Cup,1,2,L,1 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Ávila
+67,2025-08-03,Academia CAI,ARPA F.C.,,Copa Panama Next,6,0,W,6 - 0,50,25,19,44,0.8800,Y,1,0,,,,,,,,,,,,,,,,,Fútbol 9 Josef Josef Josef Pipe Yeyo Josef
+68,2025-08-09,Academia CAI,Bruneth Hay,,Atevo Cup,2,1,W,2 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Jafeth Jafeth
+69,2025-08-10,Academia CAI,Atletico de Madrid,,Copa Panama Next,1,4,L,1 - 4,50,25,9,34,0.6800,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Izquierdo
+70,2025-08-13,Academia CAI,Bagoso,,Atevo Cup,1,1,D,1 - 1,50,22,0,22,0.4400,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Se perdio en penales 3 a 4 Jafeth
+71,2025-08-17,Academia CAI,Bagoso,,Liga Distritorial de Panama,2,3,L,2 - 3,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Jafeth Jafeth
+72,2025-08-17,Academia CAI,Inter F.C.,,Atevo Cup,2,1,W,2 - 1,50,0,14,14,0.2800,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Jafeth Jafeth
+73,2025-08-17,Academia CAI,Imperio F.C.,,Copa Panama Next,1,3,L,1 - 3,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Izquierdo
+74,2025-08-23,Academia CAI,Plaza Amador Azul,,Golden League,6,1,W,6 - 1,50,25,11,36,0.7200,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Yeyo Yeyo Dainer Saldaña Jafeth Jafeth
+75,2025-08-24,Academia CAI,Alianza F.C.,,Liga Distritorial de Panama,3,0,W,3 - 0,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Padilla Gael Josef
+76,2025-08-24,St Marys Gators,Smart Academy,,Liga Jr,0,1,L,0 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+77,2025-08-30,Academia CAI,SFSS,,Golden League,6,0,W,6 - 0,50,2,10,12,0.2400,Y,0,1,,,,,,,,,,,,,,,,,Fútbol 9 Jafeth Fabian Camaño Saldaña Gutmann Koke
+78,2025-08-31,St Marys Gators,Colegio Javier,,Liga Jr,2,2,D,2 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Ricardo Kalheb
+79,2025-09-06,Academia CAI,Atletico de Madrid,,Golden League,1,2,L,1 - 2,50,25,24,49,0.9800,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Mock
+80,2025-09-07,Academia CAI,Sporting San Miguelito,,Liga Distritorial de Panama,1,2,L,1 - 2,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Josef
+81,2025-09-13,Academia CAI,FCC,,Golden League,3,0,W,3 - 0,50,20,0,20,0.4000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Fabián Ávila Jafeth
+82,2025-09-14,St Marys Gators,Panamerican School,,Liga Jr,3,0,W,3 - 0,50,25,25,50,1.0000,Y,1,0,,,,,,,,,,,,,,,,,Futbol 11 Ricardo Evans Pipe Arrocha
+83,2025-09-20,Academia CAI,Academia Costa del Este,,Golden League,3,3,D,3 - 3,50,0,0,0,0.0000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Camaño Gael Gael
+84,2025-09-21,St Marys Gators,El Colegio de Panama,,Liga Jr,1,1,D,1 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Ricardo
+85,2025-09-27,Academia CAI,Plaza Amador Azul,,Golden League,1,2,L,1 - 2,50,4,11,15,0.3000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9 Avila
+86,2025-09-28,Academia CAI,Plaza Amador,,Liga Distritorial de Panama,0,2,L,0 - 2,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11
+87,2025-09-28,St Marys Gators,Colegio La Salle,,Liga Jr,1,0,W,1 - 0,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Futbol 11 Ricardo
+88,2025-10-05,Academia CAI,PREFUPI,,Liga Distritorial de Panama,4,1,W,4 - 1,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 D Robles Gael (p) D Robles Gael
+89,2025-10-05,St Marys Gators,Atenea,,Liga Jr,3,1,W,3 - 1,50,25,20,45,0.9000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 Ricardo Ricardo Ricardo
+90,2025-10-11,Academia CAI,Atletico de Madrid,,Golden League,4,3,W,4 - 3,50,10,15,25,0.5000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9  Jafeth Jafeth Daniel R. Fabian
+91,2025-10-12,St Marys Gators,AIP,,Liga Jr,1,4,L,1 - 4,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 Ricardo
+92,2025-10-19,Academia CAI,Bagoso,,Liga Distritorial de Panama,2,5,L,2 - 5,60,0,30,30,0.5000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 Yeyo Jafeth
+93,2025-10-25,Academia CAI,PREFUPI,,Golden League,3,1,W,3 - 1,50,0,25,25,0.5000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 9  Jafeth Avila Yeyo
+94,2025-11-27,Academia CAI,Chorrillo,,Liga de Campeones,1,1,D,1 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11 Saldaña
+95,2025-11-29,Academia CAI,Nuevo Chorrillo,,Liga de Campeones,2,1,W,2 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11
+96,2025-11-30,Academia CAI,San Miguelito,,Liga de Campeones,0,4,L,0 - 4,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11
+97,2025-12-06,St Marys Gators,Smart Academy,,Boys Champions,3,0,W,3 - 0,50,25,25,50,1.0000,Y,1,0,,,,,,,,,,,,,,,,,Fútbol 11 Enzo Fabricio Danesh
+98,2025-12-07,St Marys Gators,OIS Coyotes,,Boys Champions,2,2,D,2 - 2,50,25,25,50,1.0000,Y,0,1,,,,,,,,,,,,,,,,,Fútbol 11 David Koke
+99,2025-12-11,St Marys Gators,Colegio Javier,,Boys Champions,0,7,L,0 - 7,50,25,10,35,0.7000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11
+100,2025-12-12,St Marys Gators,Colegio E Veracruz,,Boys Champions,2,3,L,2 - 3,50,25,0,25,0.5000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11
+101,2025-12-13,St Marys Gators,Colegio Javier,,Boys Champions,1,2,L,1 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Fútbol 11
+102,2026-02-21,Academia CAI,Cyclones,Home,Kids Cup,1,0,W,1 - 0,50,19,13,32,0.6400,Y,0,0,3,2,4,62,54,0.8710,5,3,8,4,0.6667,2,3,1,0,8,
+103,2026-03-01,Academia CAI,Academia Suarez,,Kids Cup,0,5,L,0 - 5,50,25,8,33,0.6600,Y,0,0,,,,,,,,,,,,,,,,,Goleador:
+104,2026-03-07,Academia CAI,Elite Rokas,,Kids Cup,3,1,W,3 - 1,50,10,3,13,0.2600,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Izquierdo_Izquierdo_Joseph
+105,2026-03-08,Academia CAI,Nuevo Chorrillo,,Kids Cup,1,1,D,1 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,
+106,2026-03-15,Academia CAI,Bagoso Blanco Elite,,Kids Cup,0,7,L,0 - 7,50,25,20,45,0.9000,Y,0,0,,,,,,,,,,,,,,,,,
+107,2026-03-19,St Marys Gators,Balboa Academy,,Amistoso,1,3,L,1 - 3,60,30,30,60,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Mateo_Diego
+108,2026-03-21,Academia CAI,Atletico de Madrid,,Golden League,0,5,L,0 - 5,50,22,5,27,0.5400,Y,0,0,,,,,,,,,,,,,,,,,
+109,2026-03-22,St Marys Gators,Academia Magen David,,Boys Champions,2,1,W,2 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Daniel Cardenas_Francesco
+110,2026-03-24,St Marys Gators,Casco School,,Amistoso,5,4,W,5 - 4,40,25,15,40,1.0000,Y,1,0,,,,,,,,,,,,,,,,,Goleador: Jose Francisco_Iam_Oscar_Aria_Francesco
+111,2026-03-28,Academia CAI,Plaza Amador A,,Golden League,1,2,L,1 - 2,50,6,25,31,0.6200,N,0,0,,,,,,,,,,,,,,,,,Goleador: Emilio
+112,2026-03-29,Academia CAI,Universitario,,Kids Cup,0,1,L,0 - 1,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,
+113,2026-03-31,St Marys Gators,Colegio Javier,,Amistoso,0,4,L,0 - 4,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,
+114,2026-04-11,Academia CAI,FCC,,Golden League,2,0,W,2 - 0,50,17,10,27,0.5400,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Ladino_Liam
+115,2026-04-12,St Marys Gators,Legends AHP,,Boys Champions,2,2,D,2 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Diego_Pozone
+116,2026-04-12,Academia CAI,New West,,Kids Cup,1,2,L,1 - 2,50,22,0,22,0.4400,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Joseph
+117,2026-04-18,Academia CAI,Plaza Amador,,Golden League,0,1,L,0 - 1,50,25,17,42,0.8400,Y,0,0,,,,,,,,,,,,,,,,,
+118,2026-04-25,Academia CAI,Atletico Panama Viejo,,Golden League,0,1,L,0 - 1,50,15,9,24,0.4800,N,0,0,,,,,,,,,,,,,,,,,
+119,2026-04-26,St Marys Gators,Instituto Bolivar,,Boys Champions,3,2,W,3 - 2,50,25,25,50,1.0000,Y,0,1,,,,,,,,,,,,,,,,,Goleador: Pipe Arrocha_Diego_Pipe Arrocha
+120,2026-05-02,Academia CAI,Suarez Academy,,Golden League,0,2,L,0 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,
+121,2026-05-10,Academia CAI,Plaza Amador 2013,,Golden League,0,2,L,0 - 2,50,25,16,41,0.8200,Y,0,0,,,,,,,,,,,,,,,,,
+122,2026-05-16,Academia CAI,Tenerife,,Golden League,0,2,L,0 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,
+123,2026-05-17,St Marys Gators,Colegio La Salle,,Boys Champions,5,0,W,5 - 0,50,25,19,44,0.8800,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Diego_Evan_Nico_Cardenas_Francesco
+124,2026-05-24,St Marys Gators,Academia Magen David,,Boys Champions,2,1,W,2 - 1,45,25,20,45,1.0000,Y,1,0,,,,,,,,,,,,,,,,,Goleador: Diego_Jose Francisco
+125,2026-06-06,Academia CAI,ACD Plaza 2,,Golden League,4,2,W,4 - 2,50,25,13,38,0.7600,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Yeicov_Emilio_Liam_Liam
+126,2026-06-14,St Marys Gators,Legends AHP,,Boys Champions,2,1,W,2 - 1,45,25,18,43,0.9556,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Pipe Arrocha_Pozone
+127,2026-07-05,Academia CAI,Wolves,,Futpa,1,3,L,1 - 3,50,22,15,37,0.7400,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Rolando
+128,2026-07-11,Academia CAI,Academia Costa del Este,,Futpa,3,2,W,3 - 2,50,25,12,37,0.7400,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Joseph_Santiago_Joseph
+129,2026-08-02,Academia CAI,Juventus,,Futpa,2,0,W,2 - 0,50,15,20,35,0.7000,Y,0,0,,,,,,,,,,,,,,,,,Goleador: Micky_Rolando
+130,2026-08-06,St Marys Gators,Instituto Enrico Fermi,,Amistoso,0,1,L,0 - 1,40,20,20,40,1.0000,Y,0,0,,,,,,,,,,,,,,,,,
+131,2026-08-08,Academia CAI,Academia Costa del Este,,Futpa,0,2,L,0 - 2,50,25,25,50,1.0000,Y,0,0,,,,,,,,,,,,,,,,,
+132,2026-08-08,Academia CAI,Panama City,,Futpa,0,2,L,0 - 2,50,25,16,41,0.8200,Y,0,0,,,,,,,,,,,,,,,,,
+133,2026-08-09,Academia CAI,CAI Vikingos,,Futpa,6,0,W,6 - 0,50,25,15,40,0.8000,Y,1,2,,,,,,,,,,,,,,,,,Goleador: Micky_Joseph_Rolando_Rolando_Freddy_Jose Francisco
+134,2026-08-15,Academia CAI,Wolves,,Futpa,5,1,W,5 - 1,50,25,5,30,0.6000,Y,0,1,,,,,,,,,,,,,,,,,Goleador: Izquierdo_Joseph_Joseph_Joseph_Ladino
+135,2026-08-15,Academia CAI,San Francisco,,Futpa,0,5,L,0 - 5,50,25,17,42,0.8400,Y,0,0,,,,,,,,,,,,,,,,,
+136,2026-08-22,Academia CAI,Union Atletico Oeste,Home,Futpa,2,0,W,2 - 0,50,25,23,48,0.9600,Y,0,0,0,0,2,12,9,0.7500,3,12,3,1,0.7500,1,0,0,0,8,Salio 2 minutos para descanso.
+137,2026-08-22,Academia CAI,Plaza Amador,Home,LPP,0,1,L,0 - 1,50,22,2,24,0.4800,Y,0,0,0,0,0,2,2,1.0000,1,3,1,0,1.0000,0,0,0,0,7,
